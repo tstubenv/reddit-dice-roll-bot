@@ -1,4 +1,4 @@
 reddit-dice-roll-bot
 ====================
 
-Dice Rolling Reddit Bot, but /u/oldcrow. Posted by /r/fetusfeast with consent under 3 Clause BSD.
+Dice Rolling Reddit Bot, by /u/oldcrow. Posted with consent under 3 Clause BSD.
