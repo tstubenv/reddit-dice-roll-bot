@@ -1,0 +1,23 @@
+August 2013 0100UTC
+Started a Changelog
+
+Only really goes back to yesterday though...
+Character Sheets
+
+Implemented the ability for a single command to roll a character sheet
+Logfile
+
+The bot now outputs info and warnings and critical errors to a logfile located at /var/log/DiceRollBot.log
+ZeroDivisionError
+
+So apparently that was never fixed before this point. I've gone and done some error handling for it.
+12 August 2013
+Thresholds
+
+The bot now supports pass/fail thresholds. Yes, I know the variable is misspelled, but I don't care.
+Modifiers
+
+The bot can now add a modifier to groups of dice.
+Tallies
+
+The bot now tallies all the rolls in a command, but correctly this time...
